@@ -1,7 +1,6 @@
 # AI Chatbot
 ## Preview 
-![Chatbot Screenshot](https://ibb.co/dQVx376)
-
+[![AI ChatBot](https://i.postimg.cc/g2KGfy4s/Screenshot-2024-09-21-at-10-47-05-PM.png)](https://postimg.cc/5X6czChQ)
 
 ## Overview
 
