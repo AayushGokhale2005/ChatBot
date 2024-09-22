@@ -1,4 +1,7 @@
 # AI Chatbot
+## Preview 
+![Chatbot Screenshot](https://ibb.co/dQVx376)
+
 
 ## Overview
 
